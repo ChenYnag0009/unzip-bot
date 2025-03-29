@@ -70,7 +70,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @phu_kdet if you think this is a mistake, I may unban you
+Report this at @phu_gm if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -235,7 +235,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 I can extract any archive, with password or not, splitted, …
 Send **/commands** to learn more
 
-**Made with ❤️ by @phu_kdet**
+**Made with ❤️ by @phu_gm**
 **/donate** if you can 🥺
     """
 
@@ -286,9 +286,8 @@ So if you can, donate :)
 It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 
 --How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
 • **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/698)**
+• **[Directly in Telegram](https://t.me/phu_gm)**
 • **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
 
 Thanks for your contribution 😊
